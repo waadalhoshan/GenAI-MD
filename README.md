@@ -4,7 +4,7 @@
 
 ---
 
-## 📅 Workshop Details
+## Workshop Details
 
 - **Title:** Build, Simulate, Create: Agent-Based Thinking with Generative AI 
 - **Event:** The GenAI for Materials Discovery Hackathon
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Workshop Overview
+## Workshop Overview
 
 This workshop explores how **agent-based modeling (ABM)** and **multi-agent frameworks (MAF)** can be combined with **Generative AI (GenAI)** to build intelligent, collaborative systems.  
 Participants will:
