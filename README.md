@@ -57,7 +57,7 @@ If you use or reference these materials in your work, please cite as:
 
 ## Copyright & License
 
-© 2025 **Waad [Last Name] & Wojdan [Last Name]. All Rights Reserved.**
+© 2025 **Waad Alhoshan & Wojdan BinSaeedan. All Rights Reserved.**
 
 This repository and its contents are provided under the following conditions:  
 - **License:** Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
