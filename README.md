@@ -10,10 +10,8 @@
 - **Event:** The GenAI for Materials Discovery Hackathon
 - **Date:** November 3, 2025  
 - **Time:** 6:00 PM – 7:30 PM GMT+3  
-- **Trainers:**  
-  - **Waad Alhoshan**  
-  - **Wojdan BinSaeedan**
-
+- **Trainer:**  Waad Alhoshan
+  
 ---
 
 ## Workshop Overview
@@ -50,7 +48,7 @@ Please see the `datasets/README.md` file for links and source citations.
 
 If you use or reference these materials in your work, please cite as:
 
-> Waad Alhoshan, Wojdan BinSaeedan. (2025). *Build, Simulate, Create: Agent-Based Thinking with Generative AI – Hackathon Workshop Materials.* GitHub Repository.  
+> Waad Alhoshan. (2025). *Build, Simulate, Create: Agent-Based Thinking with Generative AI – Hackathon Workshop Materials.* GitHub Repository.  
 > [github/waadalhoshan/GenAI-MD](https://github/waadalhoshan/GenAI-MD)
 
 ---
