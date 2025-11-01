@@ -4,7 +4,7 @@ This repository contains markdown prompts for generating the **Mesa + Streamlit*
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - **chatgpt_prompt.md** → Prompt for ChatGPT to generate the detailed Replit coding prompt.  
 - **replit_prompt.md** → High-level system prompt to paste into Replit’s *Agent 3 chat area* to build the app.  
@@ -13,7 +13,7 @@ This repository contains markdown prompts for generating the **Mesa + Streamlit*
 
 ---
 
-## 🚀 Usage Steps
+## Usage Steps
 
 1. **Prepare GitHub**
    - Create a new GitHub repository (e.g., `materials-discovery-lab`).
@@ -37,7 +37,7 @@ This repository contains markdown prompts for generating the **Mesa + Streamlit*
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - The **dataset_prompt.md** is optional; the app can also generate random materials internally.
 - Keep all prompts version-controlled for reproducibility.
