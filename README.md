@@ -57,13 +57,13 @@ If you use or reference these materials in your work, please cite as:
 
 ## Copyright & License
 
-© 2025 **Waad Alhoshan & Wojdan BinSaeedan. All Rights Reserved.**
+© 2025 **Waad Alhoshan. All Rights Reserved.**
 
 This repository and its contents are provided under the following conditions:  
 - **License:** Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 - You **may not** remix, transform, or build upon the material.  
 - You **may download and share** with credit for non-commercial educational purposes.  
-- For reuse, redistribution, or modification permissions, please contact the original authors.
+- For reuse, redistribution, or modification permissions, please contact the original author.
 
 ---
 
