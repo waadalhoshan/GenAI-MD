@@ -8,7 +8,8 @@ This repository contains markdown prompts for generating the **Mesa + Streamlit*
 
 - **chatgpt_prompt.md** → Prompt for ChatGPT to generate the detailed Replit coding prompt.  
 - **replit_prompt.md** → High-level system prompt to paste into Replit’s *Agent 3 chat area* to build the app.  
-- **dataset_prompt.md** → Prompt for generating a synthetic materials dataset for use with the simulation.  
+- **dataset_prompt.md** → Prompt for generating a synthetic materials dataset for use with the simulation.
+- **similar prompt files for LLM-as-agent**
 - **README.md** → This documentation file.
 
 ---
