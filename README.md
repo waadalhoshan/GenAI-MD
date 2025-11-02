@@ -19,8 +19,8 @@
 This workshop explores how **agent-based modeling (ABM)** and **multi-agent frameworks (MAF)** can be combined with **Generative AI (GenAI)** to build intelligent, collaborative systems.  
 Participants will:
 - Understand the role of agents and LLMs in AI workflows.  
-- Design and simulate agent-based systems using **Mesa + Replit**.  
-- Build multi-agent LLM-based frameworks using **Cursor** or similar tools.  
+- Design and simulate agent-based systems using **Mesa**.  
+- Build using **Replit**,
 - Reflect on explainability (XAI), accessibility, and future extensions.  
 
 ---
@@ -34,6 +34,7 @@ Participants will:
 | `datasets/` | Reference datasets used during the workshop |
 | `prompts/` | ChatGPT / Replit prompt templates |
 | `readings/` | Suggested readings and related resources |
+| `EvoAgentOptimize/`     | (Replit) an interactive simulation where digital scientist agents collaborate to discover and optimize new materials through experimentation and learning.|
 
 ---
 
