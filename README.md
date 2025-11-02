@@ -2,8 +2,8 @@
 
 **Hackathon Workshop Series**
 
-Tips: Replit is a great environment for quick experiments, multi-agent prototyping, and sharing live demos. You can subscribe from this link https://replit.com/refer/WaadRJD
-If you use this link to open the project, it’ll count as a referral and help support our work.
+**Tips: Replit is a great environment for quick experiments, multi-agent prototyping, and sharing live demos. You can subscribe from this link https://replit.com/refer/WaadRJD
+If you use this link to open the project, it’ll count as a referral and help support our work.**
 ---
 
 ## Workshop Details
