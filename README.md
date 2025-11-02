@@ -35,6 +35,7 @@ Participants will:
 | `prompts/` | ChatGPT / Replit prompt templates |
 | `readings/` | Suggested readings and related resources |
 | `EvoAgentOptimize/`     | (Replit) an interactive simulation where digital scientist agents collaborate to discover and optimize new materials through experimentation and learning.|
+| `AgentsPrompts-MAF-ReadingSciPapers/` | (Replit) contains multi-agent prompt designs and workflows for LLMs that collaboratively read, analyze, and teach insights from scientific papers.|
 
 ---
 
